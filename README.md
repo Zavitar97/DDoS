@@ -21,7 +21,6 @@ PORT -- port to connect,if set to 0 will try random ports<br>
 --packetfile (FILENAME) -- load packet conents from file(Could be overrided with --http option)<br>
 --sleep (TIME) -- sleep between packets sendings (in milliseconds)<br>
 </p><br>
-  
 ## Examples
 ``` $ ./ddos some.boring.long.domain.net 80 -t 70 --no-wait --http ```
   <br>
