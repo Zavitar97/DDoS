@@ -1,12 +1,12 @@
-# ddos
-<b>ddos</b>--simple program to test ddos protection system</br>
-<b>THIS PROGRAM PROVIDED FOR ONLY EDUCATIONAL PURPOSES</b><br>
-## Support
-The support of this program is currently stopped. The development of completely new toolkit is started at https://github.com/Andrewerr/ddos2
+# DoS
+<b>DoS</b>--A Simple Program to Test DoS Protection System</br>
+<b>THIS PROGRAM IS FOR EDUCATIONAL PURPOSES ONLY</b><br>
+
 ## Compilation
 ```$ ./build.sh release ```<br>
 <b>Notice:</b>Current build is not supported by some compilers.Download latest relase from here: https://github.com/Andrewerr/ddos/releases
-<br>
+<be>
+
 ## Usage
 ```$./ddos (HOST) (PORT) [options...] ``` <br>
 HOST -- host to ddos<br>
