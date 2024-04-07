@@ -2,11 +2,6 @@
 <b>DoS</b>--A Simple Program to Test DoS Protection System</br>
 <b>THIS PROGRAM IS FOR EDUCATIONAL PURPOSES ONLY</b><br>
 
-## Compilation
-```$ ./build.sh release ```<br>
-<b>Notice:</b>Current build is not supported by some compilers.Download latest relase from here: https://github.com/Andrewerr/ddos/releases
-<be>
-
 ## Usage
 ```$./ddos (HOST) (PORT) [options...] ``` <br>
 HOST -- host to ddos<br>
